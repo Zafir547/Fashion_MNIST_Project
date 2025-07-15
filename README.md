@@ -1,4 +1,5 @@
-👕 Fashion MNIST CNN Classifier
+# 👕 Fashion MNIST CNN Classifier
+
 This project implements a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset, which contains 70,000 grayscale images across 10 clothing categories (T-shirt/top, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, and Ankle boot).
 
 ✅ Results
@@ -24,13 +25,14 @@ Some blurry or ambiguous samples
 Despite these challenges, the model demonstrated strong classification ability with minimal confusion.
 
 📂 Project Structure
-bash
+```bash
 ├── model_training.ipynb     # Complete training notebook with evaluation
 ├── fashion_mnist_cnn_optimized_model.h5  # Final trained model
 ├── accuracy_plot.png        # Training vs validation accuracy plot
 ├── loss_plot.png            # Training vs validation loss plot
 ├── cm.png                   # Confusion matrix image
 └── output.png               # Sample prediction outputs
+```
 
 📷 Example Predictions
 
