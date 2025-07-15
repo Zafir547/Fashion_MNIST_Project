@@ -33,6 +33,9 @@ bash
 └── output.png               # Sample prediction outputs
 
 📷 Example Predictions
+
 <img src="output.png" width="700">
+
 📊 Confusion Matrix
-<img src="cm.png" width="600">
+
+<img src="cm.png" width="700">
